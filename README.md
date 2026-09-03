@@ -1,5 +1,5 @@
 # esp32-s3_flashforge-monitor
-ESP32-S3 Web Monitor for Flashforge Adventurer 5M/5X
+ESP32-S3 Web Monitor for Flashforge Adventurer 5M/5X with Flashforge Camera inside.
 Hardware required (ESP32-S3).
 
 Required libraries (WebServer, ArduinoJson, Preferences).
