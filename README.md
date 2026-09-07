@@ -1,5 +1,7 @@
 # Flashforge AD5X ESP32 Web Monitor \& Control Dashboard
 
+![AD5X Dashboard Preview](screenshot.png)
+
 A lightweight, highly responsive ESP32-based web dashboard designed for the **Flashforge Adventurer 5M (AD5X)** 3D printer. It provides real-time telemetry, direct network printing from an Unraid media server, Multi-Filament Station (IFS) slot management, motion controls, and thermal safety warnings directly in your web browser.
 
 \---
